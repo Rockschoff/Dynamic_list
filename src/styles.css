@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list-element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-element > p {
+  margin: 10px;
+}
